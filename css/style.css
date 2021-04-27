@@ -70,7 +70,9 @@ span {
 }
 
 .profile-picture {
-    width: 200px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
 }
 
 .code-img {
@@ -91,7 +93,7 @@ hr {
     border-right: none;
     border-left: none;
     border-bottom: none;
-    margin: 100px auto 100px auto;
+    margin: 70px auto 70px auto;
 }
 
 .contact-me-description {
@@ -105,7 +107,7 @@ hr {
 }
 
 .footer-link {
-    color: #11999E;
+    color: rgb(72, 90, 252);
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     display: inline-block;
